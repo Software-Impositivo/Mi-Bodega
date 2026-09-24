@@ -1,9 +1,9 @@
 # Modelo Canvas y Mockups
 ## 1. Modelo Canvas
-<center>
+<p align="center">
     <img alt="Modelo canvas" src="images/Modelo_canvas.png">
-    <p style="font-size: 14px; color: #fff; margin-top: 8px;"><strong>Figura 1.</strong> Modelo Canva del Proyecto.<em><strong>Login</strong></em></p>
-</center>
+</p>
+<p align="center" style="font-size: 14px; color: #fff; margin-top: 8px;"><strong>Figura 1.</strong> Modelo Canva del Proyecto.</p>
 
 ### 1.1. Propuesta de Valor
 Es una aplicación móvil que digitaliza automáticamente las facturas mediante OCR, centraliza el control de gastos personales en un solo lugar, y prepara al usuario para su declaración de renta sin estrés, sin hojas de cálculo y sin carpetas físicas. Todo esto, con las funciones esenciales 100% gratuitas y sin barreras de entrada.
@@ -35,16 +35,57 @@ Nuestra estructura de costos es controlada y escalable: desarrollo y mantenimien
 El modelo es freemium: la versión gratuita se sostiene con publicidad a través de Google AdMob. A partir de ahí, escalamos con una suscripción premium con mayor almacenamiento y sin publicidad, funciones avanzadas de reportes y estadísticas, y alianzas comerciales pagadas con contadores y firmas que quieran integrarse a nuestra base de usuarios.
 
 ## 2. Mockups
-<div style="display: flex; gap: 40px; justify-content: center;">
+
+
+<div align="center">
+  <!-- Contenedor Imagen 1 -->
+  <div style="display: inline-block; width: 45%; text-align: center; vertical-align: top;">
+    <table align="center">
+<tr>
+    <!-- Primera Imagen -->
+    <td width="45%" align="center" valign="top">
+    <img src="images/Login.png" alt="Login" width="100%">
+    <br />
+    <sub><strong>Figura 2.</strong> Esta es la pantalla del <em><strong>Login</strong></em>.</sub>
+    </td>
+    
+<td width="10%">
+</td>
+    
+<!-- Segunda Imagen -->
+<td width="45%" align="center" valign="top">
+<img src="images/Inicio.png" alt="Inicio" width="100%">
+<br />
+<sub><strong>Figura 3.</strong> Esta es la pantalla de <em><strong>Inicio</strong></em>.</sub>
+</td>
+</tr>
+</table>
+  </div>
   
-  <div style="text-align: center; width: 45%;">
-    <img src="images/Login.png" alt="Login" style="width: 100%;">
-    <p style="font-size: 14px; color: #fff; margin-top: 8px;"><strong>Figura 2.</strong> Esta es la pantalla del <em><strong>Login</strong></em>.</p>
-  </div>
+  <!-- Espaciador invisible -->
+  <div style="display: inline-block; width: 5%;"></div>
 
-  <div style="text-align: center; width: 45%;">
-    <img src="images/Inicio.png" alt="Inicio" style="width: 100%;">
-    <p style="font-size: 14px; color: #fff; margin-top: 8px;"><strong>Figura 3.</strong> Esta es la pantalla de <em><strong>Inicio</strong></em>.</p>
-  </div>
-
+<div style="display: inline-block; width: 45%; text-align: center; vertical-align: top;">
+  <!-- Contenedor Imagen 2 -->
+<table align="center">
+<tr>
+    <!-- Primera Imagen -->
+    <td width="45%" align="center" valign="top">
+    <img src="images/Escaneo OCR.png" alt="Escaneo OCR" width="100%">
+    <br />
+    <sub><strong>Figura 4.</strong> Esta es la pantalla del <em><strong>Escaneo OCR</strong></em>.</sub>
+    </td>
+    
+<td width="10%">
+</td>
+    
+<!-- Segunda Imagen -->
+<td width="45%" align="center" valign="top">
+<img src="images/Factura digitalizada.png" alt="Factura Digitalizada" width="100%">
+<br />
+<sub><strong>Figura 3.</strong> Esta es la pantalla de la <em><strong>Factura digitalizada</strong></em>.</sub>
+</td>
+</tr>
+</table>
+</div>
 </div>

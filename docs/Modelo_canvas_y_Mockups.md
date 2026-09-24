@@ -83,7 +83,7 @@ El modelo es freemium: la versión gratuita se sostiene con publicidad a través
 <td width="45%" align="center" valign="top">
 <img src="images/Factura digitalizada.png" alt="Factura Digitalizada" width="100%">
 <br />
-<sub><strong>Figura 3.</strong> Esta es la pantalla de la <em><strong>Factura digitalizada</strong></em>.</sub>
+<sub><strong>Figura 5.</strong> Esta es la pantalla de la <em><strong>Factura digitalizada</strong></em>.</sub>
 </td>
 </tr>
 </table>
